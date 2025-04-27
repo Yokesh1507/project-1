@@ -1,0 +1,78 @@
+ Python Basics
+
+1. Who developed Python?
+A. Guido van Rossum
+B. Dennis Ritchie
+C. James Gosling
+D. Bjarne Stroustrup
+
+Answer: A. Guido van Rossum
+
+2. Python is a:
+A. Low-level language
+B. High-level programming language
+C. Assembly language
+D. Machine language
+
+Answer: B. High-level programming language
+
+🔹 Data Types
+3. Which of the following is a mutable data type in Python?
+A. str
+B. tuple
+C. list
+D. int
+
+Answer: C. list
+
+4. What is the data type of:
+python
+Copy
+Edit
+x = True
+A. int
+B. bool
+C. str
+D. float
+
+Answer: B. bool
+
+5. What will type(3.14) return?
+A. <class 'int'>
+B. <class 'float'>
+C. <class 'str'>
+D. <class 'bool'>
+
+Answer: B. <class 'float'>
+
+🔹 Functions
+6. How do you define a function in Python?
+A. function myFunc():
+B. define myFunc():
+C. def myFunc():
+D. func myFunc():
+
+Answer: C. def myFunc():
+
+7. What keyword is used to return a value from a function?
+A. output
+B. print
+C. give
+D. return
+
+Answer: D. return
+
+8. What will this function return?
+python
+Copy
+Edit
+def add(a, b):
+    return a + b
+
+print(add(2, 3))
+A. 23
+B. 5
+C. 2
+D. Error
+
+Answer: B. 5

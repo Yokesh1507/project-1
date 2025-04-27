@@ -1,0 +1,71 @@
+Multiple Choice Questions (MCQs)
+
+1. What does HTML stand for?
+A. Hyperlink and Text Markup Language
+B. Home Tool Markup Language
+C. Hyper Text Markup Language
+D. Hyper Tool Markup Language
+✅ Answer: C. Hyper Text Markup Language
+
+2. Which language is used for styling web pages?
+A. HTML
+B. CSS
+C. JavaScript
+D. PHP
+✅ Answer: B. CSS
+
+3. What is the role of JavaScript in web development?
+A. Styling web pages
+B. Structuring content
+C. Adding interactivity
+D. Creating databases
+✅ Answer: C. Adding interactivity
+
+4. Which of the following is a WYSIWYG web editor?
+A. Notepad
+B. Dreamweaver
+C. Sublime Text
+D. GitHub
+✅ Answer: B. Dreamweaver
+
+5. What is a static website?
+A. A site that changes every time it loads
+B. A site that doesn’t change unless manually updated
+C. A site using only JavaScript
+D. A mobile-friendly website
+✅ Answer: B. A site that doesn’t change unless manually updated
+
+6. Which principle focuses on ensuring users can easily find their way through a website?
+A. Color theory
+B. Navigation
+C. Responsiveness
+D. Typography
+✅ Answer: B. Navigation
+
+7. What is the first step in the web design process?
+A. Designing
+B. Testing
+C. Planning
+D. Deployment
+✅ Answer: C. Planning
+
+8. What makes a website responsive?
+A. Quick load time
+B. Server-side scripting
+C. Compatibility with all devices
+D. Fast internet
+✅ Answer: C. Compatibility with all devices
+
+9. Which of the following is NOT a component of a web page?
+A. HTML
+B. CSS
+C. SQL
+D. JavaScript
+✅ Answer: C. SQL
+
+10. What does WYSIWYG stand for?
+A. What You Say Is What You Get
+B. What You See Is What You Get
+C. What You Share Is What You Get
+D. What You Scroll Is What You Get
+✅ Answer: B. What You See Is What You Get

@@ -1,0 +1,72 @@
+Deep Learning MCQs
+
+1. What is the primary purpose of an activation function in a neural network?
+A. To initialize weights
+B. To introduce non-linearity
+C. To normalize data
+D. To optimize weights
+✅ Answer: B. To introduce non-linearity
+
+2. Which of the following is a commonly used activation function?
+A. Softmax
+B. ReLU
+C. Sigmoid
+D. All of the above
+✅ Answer: D. All of the above
+
+3. What does CNN stand for in deep learning?
+A. Central Neural Network
+B. Convolutional Neural Network
+C. Conditional Neural Network
+D. Controlled Neural Network
+✅ Answer: B. Convolutional Neural Network
+
+4. What is the main purpose of dropout in training neural networks?
+A. Increase training time
+B. Prevent underfitting
+C. Reduce overfitting
+D. Optimize the cost function
+✅ Answer: C. Reduce overfitting
+
+5. Which deep learning model is best suited for sequential data like time series or text?
+A. CNN
+B. RNN
+C. GAN
+D. Autoencoder
+✅ Answer: B. RNN
+
+6. What does backpropagation compute in a neural network?
+A. Input to each layer
+B. Activation of output neurons
+C. Gradients for updating weights
+D. Final prediction score
+✅ Answer: C. Gradients for updating weights
+
+7. Which of the following optimizers adapts the learning rate during training?
+A. SGD
+B. Adam
+C. Batch Gradient Descent
+D. None
+✅ Answer: B. Adam
+
+8. In a convolutional layer, what is the purpose of the filter (kernel)?
+A. Reduces data dimensionality
+B. Extracts features from input
+C. Adds noise to input
+D. Compresses data
+✅ Answer: B. Extracts features from input
+
+9. What type of problem is best solved using autoencoders?
+A. Image classification
+B. Anomaly detection
+C. Text generation
+D. Time series forecasting
+✅ Answer: B. Anomaly detection
+
+10. What is a GAN composed of?
+A. A single neural network
+B. A generator and a classifier
+C. A generator and a discriminator
+D. Two classifiers
+✅ Answer: C. A generator and a discriminator
+

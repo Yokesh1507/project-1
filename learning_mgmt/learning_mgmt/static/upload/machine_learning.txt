@@ -1,0 +1,71 @@
+Machine Learning MCQs
+
+1. What is the main goal of supervised learning?
+A. To find hidden patterns in unlabeled data
+B. To label new data based on past data
+C. To generate random outputs
+D. To reduce dimensionality
+✅ Answer: B. To label new data based on past data
+
+2. Which of the following is an example of a supervised learning algorithm?
+A. K-Means Clustering
+B. Apriori Algorithm
+C. Linear Regression
+D. PCA
+✅ Answer: C. Linear Regression
+
+3. In which type of learning is there no output label provided?
+A. Supervised Learning
+B. Reinforcement Learning
+C. Unsupervised Learning
+D. Active Learning
+✅ Answer: C. Unsupervised Learning
+
+4. What is 'overfitting' in machine learning?
+A. A model performs well on test data but poorly on training data
+B. A model performs well on training data but poorly on test data
+C. A model performs equally on both datasets
+D. A model that cannot be trained
+✅ Answer: B. A model performs well on training data but poorly on test data
+
+5. Which metric is best when classes are imbalanced in classification?
+A. Accuracy
+B. Mean Squared Error
+C. Precision and Recall
+D. R-squared
+✅ Answer: C. Precision and Recall
+
+6. What does the 'K' in K-Nearest Neighbors represent?
+A. Number of layers
+B. Number of training samples
+C. Number of neighbors
+D. Number of predictions
+✅ Answer: C. Number of neighbors
+
+7. Which of the following is NOT a step in a typical machine learning pipeline?
+A. Data Collection
+B. Feature Engineering
+C. Model Evaluation
+D. Web Hosting
+✅ Answer: D. Web Hosting
+
+8. What is regularization used for?
+A. Speeding up the training process
+B. Increasing model accuracy
+C. Reducing overfitting
+D. Increasing complexity
+✅ Answer: C. Reducing overfitting
+
+9. What is the main use of a confusion matrix?
+A. To calculate error rate
+B. To evaluate classification models
+C. To select features
+D. To detect overfitting
+✅ Answer: B. To evaluate classification models
+
+10. What does PCA (Principal Component Analysis) do?
+A. Increases the number of features
+B. Removes irrelevant data
+C. Reduces the dimensionality of data
+D. Trains neural networks
+✅ Answer: C. Reduces the dimensionality of data

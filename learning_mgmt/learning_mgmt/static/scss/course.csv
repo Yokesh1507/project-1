@@ -1,0 +1,501 @@
+Review_ID,Student_ID,Course_ID,Mentor_ID,Review_Text,Sentiment,Course_Name,Mentor_Name,Rating,Engagement,Difficulty,Relevance,Expertise
+R001,S118,C002,M002,The course lacked structure and was hard to follow.,Negative,Data Science Fundamentals,Prof. S. Mehta,1,Low,Difficult,Low,Intermediate
+R002,S128,C001,M001,"Too theoretical, needs more practical examples.",Negative,Python for Beginners,Dr. A. Kumar,1.1,Low,Easy,Low,Expert
+R003,S113,C005,M004,"Too theoretical, needs more practical examples.",Negative,Deep Learning Advanced,Mr. L. Das,1,Low,Moderate,High,Beginner
+R004,S111,C004,M003,"The course was okay, but could use more real-world examples.",Neutral,Machine Learning Basics,Ms. R. Sharma,3.6,Medium,Easy,Low,Expert
+R005,S107,C003,M003,"The course was okay, but could use more real-world examples.",Neutral,Web Development,Ms. R. Sharma,2.6,High,Moderate,Low,Expert
+R006,S125,C001,M005,Very basic and not engaging enough.,Negative,Python for Beginners,Dr. V. Rao,1.8,Medium,Difficult,High,Expert
+R007,S105,C001,M002,"Good, but not much interaction from the mentor.",Neutral,Python for Beginners,Prof. S. Mehta,2.8,Medium,Easy,Low,Intermediate
+R008,S141,C003,M002,Highly recommended! The course structure is great.,Positive,Web Development,Prof. S. Mehta,4.3,Medium,Moderate,Low,Intermediate
+R009,S144,C001,M005,I didn’t learn as much as I expected.,Negative,Python for Beginners,Dr. V. Rao,2,High,Easy,High,Expert
+R010,S125,C003,M005,Mentor did not respond to questions effectively.,Negative,Web Development,Dr. V. Rao,1.2,Low,Difficult,Medium,Expert
+R011,S121,C004,M003,Excellent teaching style and very interactive sessions.,Positive,Machine Learning Basics,Ms. R. Sharma,4.8,Low,Easy,High,Expert
+R012,S132,C004,M004,I didn’t learn as much as I expected.,Negative,Machine Learning Basics,Mr. L. Das,1.3,Low,Moderate,Low,Beginner
+R013,S148,C005,M004,Mentor was very supportive and responded quickly.,Positive,Deep Learning Advanced,Mr. L. Das,4.5,High,Moderate,Medium,Beginner
+R014,S106,C001,M001,Excellent teaching style and very interactive sessions.,Positive,Python for Beginners,Dr. A. Kumar,4.5,Low,Difficult,Low,Expert
+R015,S125,C004,M005,Very basic and not engaging enough.,Negative,Machine Learning Basics,Dr. V. Rao,1.8,Medium,Difficult,Medium,Expert
+R016,S108,C005,M003,The course lacked structure and was hard to follow.,Negative,Deep Learning Advanced,Ms. R. Sharma,2,High,Moderate,Low,Expert
+R017,S101,C003,M005,"Some topics were covered in depth, others were rushed.",Neutral,Web Development,Dr. V. Rao,2.7,Low,Difficult,Low,Expert
+R018,S133,C005,M002,I didn’t learn as much as I expected.,Negative,Deep Learning Advanced,Prof. S. Mehta,2.2,Low,Moderate,Low,Intermediate
+R019,S139,C003,M004,"Too theoretical, needs more practical examples.",Negative,Web Development,Mr. L. Das,2.3,Low,Easy,Medium,Beginner
+R020,S137,C001,M001,Mentor explained well but the pace was a bit slow.,Neutral,Python for Beginners,Dr. A. Kumar,2.6,High,Moderate,Low,Expert
+R021,S131,C005,M002,Mentor did not respond to questions effectively.,Negative,Deep Learning Advanced,Prof. S. Mehta,1.2,Medium,Difficult,High,Intermediate
+R022,S149,C002,M003,Mentor explained well but the pace was a bit slow.,Neutral,Data Science Fundamentals,Ms. R. Sharma,3.8,Medium,Difficult,High,Expert
+R023,S129,C001,M002,"Some topics were covered in depth, others were rushed.",Neutral,Python for Beginners,Prof. S. Mehta,3.8,Low,Easy,Medium,Intermediate
+R024,S138,C002,M001,Mentor was very supportive and responded quickly.,Positive,Data Science Fundamentals,Dr. A. Kumar,4.6,Low,Difficult,High,Expert
+R025,S103,C003,M001,Excellent teaching style and very interactive sessions.,Positive,Web Development,Dr. A. Kumar,4.1,High,Easy,Medium,Expert
+R026,S109,C005,M005,Very basic and not engaging enough.,Negative,Deep Learning Advanced,Dr. V. Rao,1.3,Medium,Easy,Medium,Expert
+R027,S143,C004,M003,Mentor explained well but the pace was a bit slow.,Neutral,Machine Learning Basics,Ms. R. Sharma,2.6,Medium,Moderate,Medium,Expert
+R028,S142,C001,M001,The course lacked structure and was hard to follow.,Negative,Python for Beginners,Dr. A. Kumar,1.9,Medium,Difficult,Medium,Expert
+R029,S135,C004,M002,Excellent teaching style and very interactive sessions.,Positive,Machine Learning Basics,Prof. S. Mehta,4.2,Medium,Easy,Medium,Intermediate
+R030,S105,C004,M005,Mentor explained well but the pace was a bit slow.,Neutral,Machine Learning Basics,Dr. V. Rao,3.7,Low,Easy,High,Expert
+R031,S149,C002,M002,The course lacked structure and was hard to follow.,Negative,Data Science Fundamentals,Prof. S. Mehta,2.4,Medium,Moderate,Medium,Intermediate
+R032,S111,C004,M001,Highly recommended! The course structure is great.,Positive,Machine Learning Basics,Dr. A. Kumar,4.9,Medium,Moderate,Medium,Expert
+R033,S147,C005,M004,"Some topics were covered in depth, others were rushed.",Neutral,Deep Learning Advanced,Mr. L. Das,3.5,Low,Easy,Medium,Beginner
+R034,S135,C001,M003,The course content was very informative and the mentor explained clearly.,Positive,Python for Beginners,Ms. R. Sharma,4.6,Low,Easy,High,Expert
+R035,S134,C002,M001,"Good, but not much interaction from the mentor.",Neutral,Data Science Fundamentals,Dr. A. Kumar,3.8,High,Easy,Low,Expert
+R036,S116,C004,M001,Mentor was very supportive and responded quickly.,Positive,Machine Learning Basics,Dr. A. Kumar,4.1,High,Easy,High,Expert
+R037,S127,C005,M005,The course lacked structure and was hard to follow.,Negative,Deep Learning Advanced,Dr. V. Rao,1.9,High,Moderate,Medium,Expert
+R038,S126,C002,M003,Loved the examples and the mentor’s expertise really shows.,Positive,Data Science Fundamentals,Ms. R. Sharma,4.2,Medium,Moderate,Low,Expert
+R039,S137,C001,M001,Highly recommended! The course structure is great.,Positive,Python for Beginners,Dr. A. Kumar,4.6,High,Easy,High,Expert
+R040,S105,C002,M003,Mentor explained well but the pace was a bit slow.,Neutral,Data Science Fundamentals,Ms. R. Sharma,3.8,Medium,Easy,Medium,Expert
+R041,S142,C005,M001,I didn’t learn as much as I expected.,Negative,Deep Learning Advanced,Dr. A. Kumar,1.9,High,Difficult,Medium,Expert
+R042,S109,C003,M001,The course lacked structure and was hard to follow.,Negative,Web Development,Dr. A. Kumar,2.3,Low,Difficult,High,Expert
+R043,S114,C003,M002,Loved the examples and the mentor’s expertise really shows.,Positive,Web Development,Prof. S. Mehta,4.3,High,Difficult,Medium,Intermediate
+R044,S104,C001,M004,Very basic and not engaging enough.,Negative,Python for Beginners,Mr. L. Das,1.4,Medium,Easy,Low,Beginner
+R045,S117,C002,M004,Mentor explained well but the pace was a bit slow.,Neutral,Data Science Fundamentals,Mr. L. Das,3.4,High,Difficult,Medium,Beginner
+R046,S145,C002,M005,The course lacked structure and was hard to follow.,Negative,Data Science Fundamentals,Dr. V. Rao,1.2,Low,Moderate,High,Expert
+R047,S103,C003,M003,Mentor did not respond to questions effectively.,Negative,Web Development,Ms. R. Sharma,1.6,Low,Moderate,Low,Expert
+R048,S123,C005,M004,Mentor did not respond to questions effectively.,Negative,Deep Learning Advanced,Mr. L. Das,1.9,High,Difficult,Low,Beginner
+R049,S112,C004,M001,Excellent teaching style and very interactive sessions.,Positive,Machine Learning Basics,Dr. A. Kumar,5,Low,Difficult,Medium,Expert
+R050,S145,C001,M004,Mentor explained well but the pace was a bit slow.,Neutral,Python for Beginners,Mr. L. Das,2.9,Low,Moderate,Low,Beginner
+R051,S115,C002,M001,Highly recommended! The course structure is great.,Positive,Data Science Fundamentals,Dr. A. Kumar,4.3,High,Easy,Medium,Expert
+R052,S150,C003,M003,"Content was decent, not too exciting though.",Neutral,Web Development,Ms. R. Sharma,3.7,High,Difficult,Medium,Expert
+R053,S102,C001,M003,"Too theoretical, needs more practical examples.",Negative,Python for Beginners,Ms. R. Sharma,1.5,Low,Difficult,Medium,Expert
+R054,S123,C003,M004,The course content was very informative and the mentor explained clearly.,Positive,Web Development,Mr. L. Das,4.6,High,Difficult,Low,Beginner
+R055,S103,C004,M001,"Good, but not much interaction from the mentor.",Neutral,Machine Learning Basics,Dr. A. Kumar,2.8,High,Difficult,High,Expert
+R056,S105,C003,M005,Mentor did not respond to questions effectively.,Negative,Web Development,Dr. V. Rao,1.5,Medium,Difficult,Low,Expert
+R057,S143,C004,M003,I didn’t learn as much as I expected.,Negative,Machine Learning Basics,Ms. R. Sharma,1.7,Medium,Difficult,Medium,Expert
+R058,S143,C004,M002,Mentor did not respond to questions effectively.,Negative,Machine Learning Basics,Prof. S. Mehta,1.3,High,Difficult,Medium,Intermediate
+R059,S120,C003,M002,"Good, but not much interaction from the mentor.",Neutral,Web Development,Prof. S. Mehta,3.7,Medium,Difficult,High,Intermediate
+R060,S129,C002,M005,I didn’t learn as much as I expected.,Negative,Data Science Fundamentals,Dr. V. Rao,1.7,Medium,Difficult,Low,Expert
+R061,S143,C005,M003,The course lacked structure and was hard to follow.,Negative,Deep Learning Advanced,Ms. R. Sharma,1.4,Low,Easy,High,Expert
+R062,S110,C001,M001,Mentor explained well but the pace was a bit slow.,Neutral,Python for Beginners,Dr. A. Kumar,3.6,Low,Moderate,High,Expert
+R063,S141,C005,M002,Highly recommended! The course structure is great.,Positive,Deep Learning Advanced,Prof. S. Mehta,4.4,High,Difficult,Medium,Intermediate
+R064,S142,C001,M001,"Some topics were covered in depth, others were rushed.",Neutral,Python for Beginners,Dr. A. Kumar,2.8,Medium,Easy,Low,Expert
+R065,S136,C002,M001,"Too theoretical, needs more practical examples.",Negative,Data Science Fundamentals,Dr. A. Kumar,1.7,Medium,Easy,Medium,Expert
+R066,S139,C003,M004,"Too theoretical, needs more practical examples.",Negative,Web Development,Mr. L. Das,2.4,High,Difficult,High,Beginner
+R067,S111,C004,M004,"Good, but not much interaction from the mentor.",Neutral,Machine Learning Basics,Mr. L. Das,3.1,Medium,Easy,High,Beginner
+R068,S116,C003,M004,"Good, but not much interaction from the mentor.",Neutral,Web Development,Mr. L. Das,3.2,Low,Difficult,Medium,Beginner
+R069,S135,C001,M002,Loved the examples and the mentor’s expertise really shows.,Positive,Python for Beginners,Prof. S. Mehta,4.3,Low,Easy,Medium,Intermediate
+R070,S105,C004,M004,Mentor did not respond to questions effectively.,Negative,Machine Learning Basics,Mr. L. Das,2,Medium,Difficult,Medium,Beginner
+R071,S127,C004,M005,"The course was okay, but could use more real-world examples.",Neutral,Machine Learning Basics,Dr. V. Rao,2.8,High,Easy,High,Expert
+R072,S123,C003,M004,"Some topics were covered in depth, others were rushed.",Neutral,Web Development,Mr. L. Das,2.5,Medium,Difficult,High,Beginner
+R073,S115,C004,M002,"Too theoretical, needs more practical examples.",Negative,Machine Learning Basics,Prof. S. Mehta,2.1,Medium,Moderate,Medium,Intermediate
+R074,S144,C004,M002,Highly recommended! The course structure is great.,Positive,Machine Learning Basics,Prof. S. Mehta,4.3,Medium,Easy,High,Intermediate
+R075,S138,C005,M001,The course lacked structure and was hard to follow.,Negative,Deep Learning Advanced,Dr. A. Kumar,2.3,Low,Difficult,Medium,Expert
+R076,S117,C004,M003,Highly recommended! The course structure is great.,Positive,Machine Learning Basics,Ms. R. Sharma,4.2,Low,Moderate,Medium,Expert
+R077,S127,C003,M001,"Some topics were covered in depth, others were rushed.",Neutral,Web Development,Dr. A. Kumar,2.9,Medium,Easy,High,Expert
+R078,S123,C002,M001,The course lacked structure and was hard to follow.,Negative,Data Science Fundamentals,Dr. A. Kumar,2.4,High,Easy,Low,Expert
+R079,S140,C002,M002,Excellent teaching style and very interactive sessions.,Positive,Data Science Fundamentals,Prof. S. Mehta,4.8,Low,Moderate,High,Intermediate
+R080,S130,C003,M003,Mentor was very supportive and responded quickly.,Positive,Web Development,Ms. R. Sharma,4.9,Low,Difficult,High,Expert
+R081,S111,C003,M001,The course lacked structure and was hard to follow.,Negative,Web Development,Dr. A. Kumar,2.1,High,Easy,Medium,Expert
+R082,S146,C002,M001,Very basic and not engaging enough.,Negative,Data Science Fundamentals,Dr. A. Kumar,1.6,High,Difficult,High,Expert
+R083,S120,C005,M001,The course content was very informative and the mentor explained clearly.,Positive,Deep Learning Advanced,Dr. A. Kumar,4.7,High,Easy,Medium,Expert
+R084,S105,C005,M003,Very basic and not engaging enough.,Negative,Deep Learning Advanced,Ms. R. Sharma,1.9,Low,Moderate,Medium,Expert
+R085,S141,C004,M002,Highly recommended! The course structure is great.,Positive,Machine Learning Basics,Prof. S. Mehta,5,Medium,Easy,High,Intermediate
+R086,S135,C004,M004,I didn’t learn as much as I expected.,Negative,Machine Learning Basics,Mr. L. Das,1.9,Medium,Difficult,High,Beginner
+R087,S106,C003,M004,"Content was decent, not too exciting though.",Neutral,Web Development,Mr. L. Das,3.7,Low,Moderate,High,Beginner
+R088,S132,C003,M002,Very basic and not engaging enough.,Negative,Web Development,Prof. S. Mehta,1.5,Medium,Easy,Medium,Intermediate
+R089,S139,C003,M005,"Content was decent, not too exciting though.",Neutral,Web Development,Dr. V. Rao,2.9,Low,Difficult,Low,Expert
+R090,S132,C005,M002,Excellent teaching style and very interactive sessions.,Positive,Deep Learning Advanced,Prof. S. Mehta,4.7,High,Moderate,High,Intermediate
+R091,S102,C001,M003,Very basic and not engaging enough.,Negative,Python for Beginners,Ms. R. Sharma,1.6,Low,Moderate,High,Expert
+R092,S124,C004,M005,Loved the examples and the mentor’s expertise really shows.,Positive,Machine Learning Basics,Dr. V. Rao,4.7,High,Moderate,Medium,Expert
+R093,S145,C004,M003,"Too theoretical, needs more practical examples.",Negative,Machine Learning Basics,Ms. R. Sharma,1.5,Medium,Moderate,Low,Expert
+R094,S148,C005,M002,Excellent teaching style and very interactive sessions.,Positive,Deep Learning Advanced,Prof. S. Mehta,4.3,Low,Easy,High,Intermediate
+R095,S149,C005,M005,"Content was decent, not too exciting though.",Neutral,Deep Learning Advanced,Dr. V. Rao,3.5,Medium,Easy,Low,Expert
+R096,S120,C001,M005,Mentor explained well but the pace was a bit slow.,Neutral,Python for Beginners,Dr. V. Rao,3,Low,Moderate,Low,Expert
+R097,S109,C004,M001,Mentor was very supportive and responded quickly.,Positive,Machine Learning Basics,Dr. A. Kumar,4.3,Low,Difficult,Medium,Expert
+R098,S112,C001,M003,"Some topics were covered in depth, others were rushed.",Neutral,Python for Beginners,Ms. R. Sharma,3.1,Medium,Easy,Low,Expert
+R099,S141,C001,M002,"Some topics were covered in depth, others were rushed.",Neutral,Python for Beginners,Prof. S. Mehta,2.6,Low,Difficult,Medium,Intermediate
+R100,S149,C004,M005,Excellent teaching style and very interactive sessions.,Positive,Machine Learning Basics,Dr. V. Rao,4.1,High,Difficult,Low,Expert
+R101,S129,C003,M005,Very basic and not engaging enough.,Negative,Web Development,Dr. V. Rao,1.6,Medium,Moderate,High,Expert
+R102,S148,C001,M002,The course lacked structure and was hard to follow.,Negative,Python for Beginners,Prof. S. Mehta,1.9,High,Easy,Medium,Intermediate
+R103,S112,C005,M001,The course lacked structure and was hard to follow.,Negative,Deep Learning Advanced,Dr. A. Kumar,1.2,Low,Easy,Medium,Expert
+R104,S103,C002,M003,"Good, but not much interaction from the mentor.",Neutral,Data Science Fundamentals,Ms. R. Sharma,3.2,High,Moderate,High,Expert
+R105,S117,C005,M002,"The course was okay, but could use more real-world examples.",Neutral,Deep Learning Advanced,Prof. S. Mehta,3.5,Medium,Easy,High,Intermediate
+R106,S110,C001,M001,Excellent teaching style and very interactive sessions.,Positive,Python for Beginners,Dr. A. Kumar,4.9,Low,Moderate,High,Expert
+R107,S129,C001,M004,"Too theoretical, needs more practical examples.",Negative,Python for Beginners,Mr. L. Das,2.3,High,Moderate,High,Beginner
+R108,S132,C004,M001,"Content was decent, not too exciting though.",Neutral,Machine Learning Basics,Dr. A. Kumar,3.2,High,Easy,Medium,Expert
+R109,S102,C001,M002,I didn’t learn as much as I expected.,Negative,Python for Beginners,Prof. S. Mehta,1.8,High,Difficult,High,Intermediate
+R110,S149,C002,M004,Loved the examples and the mentor’s expertise really shows.,Positive,Data Science Fundamentals,Mr. L. Das,4.6,High,Difficult,Medium,Beginner
+R111,S128,C004,M001,Mentor explained well but the pace was a bit slow.,Neutral,Machine Learning Basics,Dr. A. Kumar,3.9,Medium,Moderate,Medium,Expert
+R112,S111,C003,M004,"Content was decent, not too exciting though.",Neutral,Web Development,Mr. L. Das,3.4,High,Moderate,Medium,Beginner
+R113,S136,C001,M004,Very basic and not engaging enough.,Negative,Python for Beginners,Mr. L. Das,2.1,Low,Moderate,Medium,Beginner
+R114,S126,C005,M001,"The course was okay, but could use more real-world examples.",Neutral,Deep Learning Advanced,Dr. A. Kumar,3.9,High,Difficult,Medium,Expert
+R115,S124,C005,M004,"The course was okay, but could use more real-world examples.",Neutral,Deep Learning Advanced,Mr. L. Das,2.8,High,Moderate,Low,Beginner
+R116,S119,C004,M004,Loved the examples and the mentor’s expertise really shows.,Positive,Machine Learning Basics,Mr. L. Das,4.5,Low,Easy,High,Beginner
+R117,S120,C005,M001,Mentor did not respond to questions effectively.,Negative,Deep Learning Advanced,Dr. A. Kumar,2,High,Moderate,Low,Expert
+R118,S108,C002,M004,The course content was very informative and the mentor explained clearly.,Positive,Data Science Fundamentals,Mr. L. Das,4.5,High,Moderate,High,Beginner
+R119,S131,C004,M002,I didn’t learn as much as I expected.,Negative,Machine Learning Basics,Prof. S. Mehta,1.6,Medium,Difficult,Low,Intermediate
+R120,S133,C002,M001,Mentor explained well but the pace was a bit slow.,Neutral,Data Science Fundamentals,Dr. A. Kumar,3.8,Medium,Moderate,Medium,Expert
+R121,S119,C003,M005,I didn’t learn as much as I expected.,Negative,Web Development,Dr. V. Rao,2.1,High,Difficult,Medium,Expert
+R122,S123,C003,M005,Highly recommended! The course structure is great.,Positive,Web Development,Dr. V. Rao,4.5,High,Moderate,Medium,Expert
+R123,S116,C005,M004,Mentor explained well but the pace was a bit slow.,Neutral,Deep Learning Advanced,Mr. L. Das,3.9,Low,Moderate,Low,Beginner
+R124,S125,C004,M002,"Some topics were covered in depth, others were rushed.",Neutral,Machine Learning Basics,Prof. S. Mehta,3.5,Medium,Easy,Low,Intermediate
+R125,S107,C004,M001,"Too theoretical, needs more practical examples.",Negative,Machine Learning Basics,Dr. A. Kumar,1.5,High,Moderate,Low,Expert
+R126,S142,C002,M001,Mentor did not respond to questions effectively.,Negative,Data Science Fundamentals,Dr. A. Kumar,1.6,Medium,Moderate,Medium,Expert
+R127,S122,C005,M004,Very basic and not engaging enough.,Negative,Deep Learning Advanced,Mr. L. Das,1.9,Medium,Difficult,High,Beginner
+R128,S105,C002,M003,"Good, but not much interaction from the mentor.",Neutral,Data Science Fundamentals,Ms. R. Sharma,2.6,Low,Difficult,Low,Expert
+R129,S146,C001,M004,"The course was okay, but could use more real-world examples.",Neutral,Python for Beginners,Mr. L. Das,3.6,Low,Difficult,Medium,Beginner
+R130,S104,C003,M003,The course content was very informative and the mentor explained clearly.,Positive,Web Development,Ms. R. Sharma,4.3,Medium,Moderate,Low,Expert
+R131,S144,C002,M002,Mentor was very supportive and responded quickly.,Positive,Data Science Fundamentals,Prof. S. Mehta,4.4,Low,Easy,High,Intermediate
+R132,S132,C005,M002,"Good, but not much interaction from the mentor.",Neutral,Deep Learning Advanced,Prof. S. Mehta,3.5,Low,Moderate,High,Intermediate
+R133,S101,C004,M003,"Some topics were covered in depth, others were rushed.",Neutral,Machine Learning Basics,Ms. R. Sharma,2.9,High,Difficult,Low,Expert
+R134,S138,C003,M004,Highly recommended! The course structure is great.,Positive,Web Development,Mr. L. Das,4.9,High,Moderate,Medium,Beginner
+R135,S131,C001,M002,Mentor explained well but the pace was a bit slow.,Neutral,Python for Beginners,Prof. S. Mehta,3.9,Medium,Difficult,Medium,Intermediate
+R136,S119,C001,M004,I didn’t learn as much as I expected.,Negative,Python for Beginners,Mr. L. Das,2.4,Medium,Easy,High,Beginner
+R137,S148,C004,M003,The course lacked structure and was hard to follow.,Negative,Machine Learning Basics,Ms. R. Sharma,2.3,Low,Difficult,Medium,Expert
+R138,S144,C002,M001,Excellent teaching style and very interactive sessions.,Positive,Data Science Fundamentals,Dr. A. Kumar,4.6,High,Difficult,Low,Expert
+R139,S124,C002,M001,"Some topics were covered in depth, others were rushed.",Neutral,Data Science Fundamentals,Dr. A. Kumar,2.5,Medium,Moderate,High,Expert
+R140,S135,C003,M005,Mentor explained well but the pace was a bit slow.,Neutral,Web Development,Dr. V. Rao,2.8,High,Moderate,Low,Expert
+R141,S119,C003,M001,"Some topics were covered in depth, others were rushed.",Neutral,Web Development,Dr. A. Kumar,3.9,Medium,Easy,Low,Expert
+R142,S136,C003,M001,Highly recommended! The course structure is great.,Positive,Web Development,Dr. A. Kumar,5,Medium,Easy,Medium,Expert
+R143,S144,C003,M005,The course lacked structure and was hard to follow.,Negative,Web Development,Dr. V. Rao,1.6,Medium,Difficult,Medium,Expert
+R144,S140,C005,M003,Excellent teaching style and very interactive sessions.,Positive,Deep Learning Advanced,Ms. R. Sharma,4.5,High,Easy,High,Expert
+R145,S120,C004,M001,Highly recommended! The course structure is great.,Positive,Machine Learning Basics,Dr. A. Kumar,4.9,Low,Easy,Low,Expert
+R146,S116,C005,M002,"Some topics were covered in depth, others were rushed.",Neutral,Deep Learning Advanced,Prof. S. Mehta,2.7,Medium,Moderate,Medium,Intermediate
+R147,S148,C002,M004,"Too theoretical, needs more practical examples.",Negative,Data Science Fundamentals,Mr. L. Das,1.6,High,Easy,Medium,Beginner
+R148,S118,C001,M003,Very basic and not engaging enough.,Negative,Python for Beginners,Ms. R. Sharma,2.3,Low,Moderate,Medium,Expert
+R149,S144,C003,M005,Loved the examples and the mentor’s expertise really shows.,Positive,Web Development,Dr. V. Rao,4.1,High,Moderate,Low,Expert
+R150,S108,C004,M001,"Content was decent, not too exciting though.",Neutral,Machine Learning Basics,Dr. A. Kumar,2.8,High,Easy,High,Expert
+R151,S104,C003,M002,"Too theoretical, needs more practical examples.",Negative,Web Development,Prof. S. Mehta,2.4,Low,Difficult,Low,Intermediate
+R152,S114,C002,M003,Mentor was very supportive and responded quickly.,Positive,Data Science Fundamentals,Ms. R. Sharma,4.2,Low,Difficult,Low,Expert
+R153,S135,C003,M002,Mentor explained well but the pace was a bit slow.,Neutral,Web Development,Prof. S. Mehta,3.9,Low,Difficult,Low,Intermediate
+R154,S116,C005,M003,The course content was very informative and the mentor explained clearly.,Positive,Deep Learning Advanced,Ms. R. Sharma,4.4,Low,Easy,Medium,Expert
+R155,S134,C001,M001,Excellent teaching style and very interactive sessions.,Positive,Python for Beginners,Dr. A. Kumar,4.7,Medium,Moderate,Medium,Expert
+R156,S133,C002,M005,"Too theoretical, needs more practical examples.",Negative,Data Science Fundamentals,Dr. V. Rao,1.2,Low,Difficult,High,Expert
+R157,S102,C001,M004,I didn’t learn as much as I expected.,Negative,Python for Beginners,Mr. L. Das,1.6,Medium,Moderate,High,Beginner
+R158,S129,C001,M001,Highly recommended! The course structure is great.,Positive,Python for Beginners,Dr. A. Kumar,4.7,Medium,Difficult,Low,Expert
+R159,S141,C005,M005,Excellent teaching style and very interactive sessions.,Positive,Deep Learning Advanced,Dr. V. Rao,4.3,High,Moderate,Medium,Expert
+R160,S133,C005,M004,"Too theoretical, needs more practical examples.",Negative,Deep Learning Advanced,Mr. L. Das,1.4,Low,Difficult,Low,Beginner
+R161,S114,C004,M004,"Too theoretical, needs more practical examples.",Negative,Machine Learning Basics,Mr. L. Das,2,Low,Moderate,Medium,Beginner
+R162,S107,C003,M004,"Some topics were covered in depth, others were rushed.",Neutral,Web Development,Mr. L. Das,3.1,Medium,Difficult,Medium,Beginner
+R163,S131,C001,M001,Mentor explained well but the pace was a bit slow.,Neutral,Python for Beginners,Dr. A. Kumar,3.5,Low,Easy,Medium,Expert
+R164,S136,C001,M005,Loved the examples and the mentor’s expertise really shows.,Positive,Python for Beginners,Dr. V. Rao,4.8,High,Difficult,Medium,Expert
+R165,S143,C004,M001,The course lacked structure and was hard to follow.,Negative,Machine Learning Basics,Dr. A. Kumar,1.6,Medium,Difficult,Medium,Expert
+R166,S114,C002,M004,"The course was okay, but could use more real-world examples.",Neutral,Data Science Fundamentals,Mr. L. Das,3.3,Low,Easy,Medium,Beginner
+R167,S118,C005,M002,I didn’t learn as much as I expected.,Negative,Deep Learning Advanced,Prof. S. Mehta,1.2,Medium,Difficult,High,Intermediate
+R168,S143,C003,M001,"Too theoretical, needs more practical examples.",Negative,Web Development,Dr. A. Kumar,1,Low,Moderate,High,Expert
+R169,S112,C002,M005,"Content was decent, not too exciting though.",Neutral,Data Science Fundamentals,Dr. V. Rao,3,High,Moderate,Low,Expert
+R170,S134,C002,M004,The course content was very informative and the mentor explained clearly.,Positive,Data Science Fundamentals,Mr. L. Das,4.1,Medium,Moderate,Medium,Beginner
+R171,S121,C005,M005,Loved the examples and the mentor’s expertise really shows.,Positive,Deep Learning Advanced,Dr. V. Rao,4.3,Low,Easy,Low,Expert
+R172,S106,C003,M004,Mentor was very supportive and responded quickly.,Positive,Web Development,Mr. L. Das,4,High,Moderate,Medium,Beginner
+R173,S114,C005,M001,Very basic and not engaging enough.,Negative,Deep Learning Advanced,Dr. A. Kumar,1.6,Medium,Moderate,Low,Expert
+R174,S143,C003,M001,"Good, but not much interaction from the mentor.",Neutral,Web Development,Dr. A. Kumar,3.2,Low,Moderate,High,Expert
+R175,S114,C002,M003,The course content was very informative and the mentor explained clearly.,Positive,Data Science Fundamentals,Ms. R. Sharma,4.2,Medium,Moderate,Low,Expert
+R176,S112,C002,M004,Highly recommended! The course structure is great.,Positive,Data Science Fundamentals,Mr. L. Das,4.7,High,Difficult,Low,Beginner
+R177,S123,C001,M004,"Too theoretical, needs more practical examples.",Negative,Python for Beginners,Mr. L. Das,2.2,High,Easy,Medium,Beginner
+R178,S121,C005,M004,Highly recommended! The course structure is great.,Positive,Deep Learning Advanced,Mr. L. Das,4.9,High,Moderate,High,Beginner
+R179,S126,C001,M003,Very basic and not engaging enough.,Negative,Python for Beginners,Ms. R. Sharma,1.4,Low,Difficult,Medium,Expert
+R180,S107,C002,M004,I didn’t learn as much as I expected.,Negative,Data Science Fundamentals,Mr. L. Das,1.1,High,Moderate,High,Beginner
+R181,S148,C003,M002,Highly recommended! The course structure is great.,Positive,Web Development,Prof. S. Mehta,4.9,Medium,Easy,Low,Intermediate
+R182,S113,C003,M003,The course lacked structure and was hard to follow.,Negative,Web Development,Ms. R. Sharma,1.7,High,Difficult,Low,Expert
+R183,S113,C002,M005,The course content was very informative and the mentor explained clearly.,Positive,Data Science Fundamentals,Dr. V. Rao,4.1,Low,Difficult,Low,Expert
+R184,S137,C005,M004,Highly recommended! The course structure is great.,Positive,Deep Learning Advanced,Mr. L. Das,4.5,High,Difficult,High,Beginner
+R185,S141,C003,M002,"Too theoretical, needs more practical examples.",Negative,Web Development,Prof. S. Mehta,1.5,Medium,Easy,Medium,Intermediate
+R186,S138,C001,M003,"Content was decent, not too exciting though.",Neutral,Python for Beginners,Ms. R. Sharma,3.6,High,Easy,Medium,Expert
+R187,S124,C003,M001,"Some topics were covered in depth, others were rushed.",Neutral,Web Development,Dr. A. Kumar,2.6,High,Easy,High,Expert
+R188,S138,C005,M001,"Too theoretical, needs more practical examples.",Negative,Deep Learning Advanced,Dr. A. Kumar,1.5,Medium,Difficult,High,Expert
+R189,S133,C002,M001,Loved the examples and the mentor’s expertise really shows.,Positive,Data Science Fundamentals,Dr. A. Kumar,4.6,Medium,Easy,Medium,Expert
+R190,S112,C001,M002,The course lacked structure and was hard to follow.,Negative,Python for Beginners,Prof. S. Mehta,1.7,High,Moderate,Medium,Intermediate
+R191,S124,C003,M003,"Too theoretical, needs more practical examples.",Negative,Web Development,Ms. R. Sharma,1.9,Medium,Moderate,Medium,Expert
+R192,S141,C003,M001,"Too theoretical, needs more practical examples.",Negative,Web Development,Dr. A. Kumar,1.1,Medium,Easy,High,Expert
+R193,S147,C005,M002,Very basic and not engaging enough.,Negative,Deep Learning Advanced,Prof. S. Mehta,1.4,Medium,Easy,High,Intermediate
+R194,S120,C004,M002,Mentor did not respond to questions effectively.,Negative,Machine Learning Basics,Prof. S. Mehta,2.3,High,Difficult,Low,Intermediate
+R195,S122,C002,M005,"Good, but not much interaction from the mentor.",Neutral,Data Science Fundamentals,Dr. V. Rao,3,Low,Difficult,High,Expert
+R196,S124,C003,M002,"Good, but not much interaction from the mentor.",Neutral,Web Development,Prof. S. Mehta,3,Low,Moderate,Medium,Intermediate
+R197,S110,C001,M003,Excellent teaching style and very interactive sessions.,Positive,Python for Beginners,Ms. R. Sharma,5,Low,Difficult,High,Expert
+R198,S122,C005,M002,"Too theoretical, needs more practical examples.",Negative,Deep Learning Advanced,Prof. S. Mehta,1.1,High,Moderate,Low,Intermediate
+R199,S150,C005,M002,Excellent teaching style and very interactive sessions.,Positive,Deep Learning Advanced,Prof. S. Mehta,4.8,High,Moderate,Low,Intermediate
+R200,S116,C004,M005,"Content was decent, not too exciting though.",Neutral,Machine Learning Basics,Dr. V. Rao,3.4,Medium,Difficult,Medium,Expert
+R201,S131,C002,M003,Mentor was very supportive and responded quickly.,Positive,Data Science Fundamentals,Ms. R. Sharma,4.2,High,Difficult,Medium,Expert
+R202,S133,C005,M004,"Content was decent, not too exciting though.",Neutral,Deep Learning Advanced,Mr. L. Das,3.6,Low,Easy,High,Beginner
+R203,S131,C003,M005,Loved the examples and the mentor’s expertise really shows.,Positive,Web Development,Dr. V. Rao,4.1,Low,Difficult,High,Expert
+R204,S111,C003,M004,Loved the examples and the mentor’s expertise really shows.,Positive,Web Development,Mr. L. Das,4.1,High,Easy,Medium,Beginner
+R205,S123,C001,M004,Excellent teaching style and very interactive sessions.,Positive,Python for Beginners,Mr. L. Das,4.8,Low,Moderate,High,Beginner
+R206,S106,C003,M002,Mentor explained well but the pace was a bit slow.,Neutral,Web Development,Prof. S. Mehta,3,Low,Moderate,Low,Intermediate
+R207,S109,C001,M003,I didn’t learn as much as I expected.,Negative,Python for Beginners,Ms. R. Sharma,2.1,Medium,Difficult,Low,Expert
+R208,S101,C001,M001,Very basic and not engaging enough.,Negative,Python for Beginners,Dr. A. Kumar,1.6,Medium,Easy,Low,Expert
+R209,S108,C003,M002,"Too theoretical, needs more practical examples.",Negative,Web Development,Prof. S. Mehta,1.7,Medium,Easy,Low,Intermediate
+R210,S140,C004,M001,Highly recommended! The course structure is great.,Positive,Machine Learning Basics,Dr. A. Kumar,4.6,Low,Moderate,High,Expert
+R211,S137,C002,M002,The course lacked structure and was hard to follow.,Negative,Data Science Fundamentals,Prof. S. Mehta,1.9,Medium,Moderate,Low,Intermediate
+R212,S127,C002,M001,I didn’t learn as much as I expected.,Negative,Data Science Fundamentals,Dr. A. Kumar,1.3,High,Moderate,Low,Expert
+R213,S133,C005,M001,"Too theoretical, needs more practical examples.",Negative,Deep Learning Advanced,Dr. A. Kumar,1.7,Medium,Moderate,Low,Expert
+R214,S117,C001,M003,Very basic and not engaging enough.,Negative,Python for Beginners,Ms. R. Sharma,2.4,Low,Moderate,Low,Expert
+R215,S148,C003,M002,The course lacked structure and was hard to follow.,Negative,Web Development,Prof. S. Mehta,2.1,Low,Moderate,High,Intermediate
+R216,S144,C004,M004,Mentor explained well but the pace was a bit slow.,Neutral,Machine Learning Basics,Mr. L. Das,3.7,High,Easy,Low,Beginner
+R217,S113,C001,M002,Highly recommended! The course structure is great.,Positive,Python for Beginners,Prof. S. Mehta,4,Low,Moderate,Medium,Intermediate
+R218,S135,C004,M003,Very basic and not engaging enough.,Negative,Machine Learning Basics,Ms. R. Sharma,2.4,Low,Difficult,Low,Expert
+R219,S104,C003,M003,"Content was decent, not too exciting though.",Neutral,Web Development,Ms. R. Sharma,3.7,Low,Moderate,Medium,Expert
+R220,S125,C003,M002,"Some topics were covered in depth, others were rushed.",Neutral,Web Development,Prof. S. Mehta,3.8,Medium,Difficult,Medium,Intermediate
+R221,S106,C004,M001,"Good, but not much interaction from the mentor.",Neutral,Machine Learning Basics,Dr. A. Kumar,2.9,Medium,Difficult,Low,Expert
+R222,S106,C003,M003,I didn’t learn as much as I expected.,Negative,Web Development,Ms. R. Sharma,1.4,Medium,Moderate,High,Expert
+R223,S129,C003,M004,Very basic and not engaging enough.,Negative,Web Development,Mr. L. Das,1.2,Low,Difficult,Medium,Beginner
+R224,S104,C001,M004,Very basic and not engaging enough.,Negative,Python for Beginners,Mr. L. Das,1.4,Medium,Difficult,High,Beginner
+R225,S110,C005,M004,Mentor did not respond to questions effectively.,Negative,Deep Learning Advanced,Mr. L. Das,2.3,Low,Easy,Low,Beginner
+R226,S137,C001,M005,Loved the examples and the mentor’s expertise really shows.,Positive,Python for Beginners,Dr. V. Rao,4.4,Low,Difficult,Medium,Expert
+R227,S105,C005,M002,"Content was decent, not too exciting though.",Neutral,Deep Learning Advanced,Prof. S. Mehta,3.1,High,Moderate,Medium,Intermediate
+R228,S108,C001,M002,"Content was decent, not too exciting though.",Neutral,Python for Beginners,Prof. S. Mehta,2.8,Medium,Difficult,Medium,Intermediate
+R229,S117,C004,M002,The course lacked structure and was hard to follow.,Negative,Machine Learning Basics,Prof. S. Mehta,1.4,High,Moderate,High,Intermediate
+R230,S105,C004,M002,Mentor explained well but the pace was a bit slow.,Neutral,Machine Learning Basics,Prof. S. Mehta,2.7,High,Moderate,Low,Intermediate
+R231,S146,C001,M005,I didn’t learn as much as I expected.,Negative,Python for Beginners,Dr. V. Rao,1.9,High,Moderate,Medium,Expert
+R232,S133,C002,M001,Excellent teaching style and very interactive sessions.,Positive,Data Science Fundamentals,Dr. A. Kumar,4.8,Low,Easy,Low,Expert
+R233,S137,C003,M004,"The course was okay, but could use more real-world examples.",Neutral,Web Development,Mr. L. Das,3,High,Easy,High,Beginner
+R234,S146,C004,M005,The course content was very informative and the mentor explained clearly.,Positive,Machine Learning Basics,Dr. V. Rao,4.3,Medium,Moderate,High,Expert
+R235,S142,C001,M004,Excellent teaching style and very interactive sessions.,Positive,Python for Beginners,Mr. L. Das,5,Medium,Difficult,High,Beginner
+R236,S150,C005,M005,Mentor explained well but the pace was a bit slow.,Neutral,Deep Learning Advanced,Dr. V. Rao,3.7,Low,Easy,Medium,Expert
+R237,S134,C002,M003,The course lacked structure and was hard to follow.,Negative,Data Science Fundamentals,Ms. R. Sharma,2.2,Low,Easy,Medium,Expert
+R238,S134,C003,M001,Mentor did not respond to questions effectively.,Negative,Web Development,Dr. A. Kumar,1.5,Medium,Easy,High,Expert
+R239,S120,C005,M005,I didn’t learn as much as I expected.,Negative,Deep Learning Advanced,Dr. V. Rao,1.2,Low,Difficult,High,Expert
+R240,S110,C002,M005,Mentor was very supportive and responded quickly.,Positive,Data Science Fundamentals,Dr. V. Rao,4.9,High,Difficult,Medium,Expert
+R241,S102,C001,M001,The course lacked structure and was hard to follow.,Negative,Python for Beginners,Dr. A. Kumar,2.2,High,Difficult,Medium,Expert
+R242,S127,C005,M001,Mentor did not respond to questions effectively.,Negative,Deep Learning Advanced,Dr. A. Kumar,2.1,Medium,Difficult,High,Expert
+R243,S144,C004,M003,"Content was decent, not too exciting though.",Neutral,Machine Learning Basics,Ms. R. Sharma,3.2,Medium,Easy,High,Expert
+R244,S131,C004,M002,Excellent teaching style and very interactive sessions.,Positive,Machine Learning Basics,Prof. S. Mehta,4.4,Medium,Difficult,Low,Intermediate
+R245,S123,C004,M002,"Content was decent, not too exciting though.",Neutral,Machine Learning Basics,Prof. S. Mehta,3.5,Medium,Difficult,High,Intermediate
+R246,S108,C003,M004,Loved the examples and the mentor’s expertise really shows.,Positive,Web Development,Mr. L. Das,4.2,Low,Easy,Low,Beginner
+R247,S140,C004,M002,Loved the examples and the mentor’s expertise really shows.,Positive,Machine Learning Basics,Prof. S. Mehta,4.9,Low,Moderate,High,Intermediate
+R248,S111,C004,M005,I didn’t learn as much as I expected.,Negative,Machine Learning Basics,Dr. V. Rao,1.3,Medium,Moderate,Medium,Expert
+R249,S126,C005,M004,"The course was okay, but could use more real-world examples.",Neutral,Deep Learning Advanced,Mr. L. Das,2.6,Low,Easy,High,Beginner
+R250,S132,C005,M004,"The course was okay, but could use more real-world examples.",Neutral,Deep Learning Advanced,Mr. L. Das,2.6,Medium,Difficult,Low,Beginner
+R251,S117,C003,M004,Highly recommended! The course structure is great.,Positive,Web Development,Mr. L. Das,4.1,Medium,Easy,Medium,Beginner
+R252,S124,C005,M003,Mentor was very supportive and responded quickly.,Positive,Deep Learning Advanced,Ms. R. Sharma,4.6,Low,Moderate,High,Expert
+R253,S140,C005,M001,"Good, but not much interaction from the mentor.",Neutral,Deep Learning Advanced,Dr. A. Kumar,2.9,Low,Easy,Medium,Expert
+R254,S124,C002,M002,"Content was decent, not too exciting though.",Neutral,Data Science Fundamentals,Prof. S. Mehta,3.3,High,Difficult,Medium,Intermediate
+R255,S109,C003,M004,The course lacked structure and was hard to follow.,Negative,Web Development,Mr. L. Das,1.1,High,Moderate,Low,Beginner
+R256,S140,C003,M002,"Too theoretical, needs more practical examples.",Negative,Web Development,Prof. S. Mehta,1.2,Medium,Difficult,High,Intermediate
+R257,S133,C005,M004,"Good, but not much interaction from the mentor.",Neutral,Deep Learning Advanced,Mr. L. Das,3,High,Difficult,Medium,Beginner
+R258,S144,C001,M004,"The course was okay, but could use more real-world examples.",Neutral,Python for Beginners,Mr. L. Das,3,High,Moderate,High,Beginner
+R259,S117,C005,M005,The course lacked structure and was hard to follow.,Negative,Deep Learning Advanced,Dr. V. Rao,1.8,Low,Difficult,Low,Expert
+R260,S141,C005,M004,Very basic and not engaging enough.,Negative,Deep Learning Advanced,Mr. L. Das,1.2,Low,Difficult,Low,Beginner
+R261,S108,C002,M001,Mentor was very supportive and responded quickly.,Positive,Data Science Fundamentals,Dr. A. Kumar,4.9,Medium,Moderate,Medium,Expert
+R262,S127,C005,M005,Highly recommended! The course structure is great.,Positive,Deep Learning Advanced,Dr. V. Rao,4.7,Medium,Difficult,High,Expert
+R263,S136,C003,M004,Excellent teaching style and very interactive sessions.,Positive,Web Development,Mr. L. Das,4.5,High,Moderate,Medium,Beginner
+R264,S122,C005,M003,Highly recommended! The course structure is great.,Positive,Deep Learning Advanced,Ms. R. Sharma,4.9,High,Difficult,High,Expert
+R265,S113,C002,M003,I didn’t learn as much as I expected.,Negative,Data Science Fundamentals,Ms. R. Sharma,1.9,High,Moderate,Low,Expert
+R266,S145,C004,M003,"Content was decent, not too exciting though.",Neutral,Machine Learning Basics,Ms. R. Sharma,3.5,Medium,Moderate,High,Expert
+R267,S137,C005,M004,I didn’t learn as much as I expected.,Negative,Deep Learning Advanced,Mr. L. Das,1.4,Medium,Moderate,Low,Beginner
+R268,S146,C001,M003,"The course was okay, but could use more real-world examples.",Neutral,Python for Beginners,Ms. R. Sharma,2.9,Medium,Difficult,Medium,Expert
+R269,S135,C003,M005,Very basic and not engaging enough.,Negative,Web Development,Dr. V. Rao,1.3,High,Moderate,Low,Expert
+R270,S116,C002,M001,Mentor was very supportive and responded quickly.,Positive,Data Science Fundamentals,Dr. A. Kumar,4.7,High,Difficult,Low,Expert
+R271,S127,C003,M004,Mentor did not respond to questions effectively.,Negative,Web Development,Mr. L. Das,1.1,Low,Difficult,Low,Beginner
+R272,S111,C004,M004,Mentor was very supportive and responded quickly.,Positive,Machine Learning Basics,Mr. L. Das,5,Medium,Difficult,Low,Beginner
+R273,S104,C001,M005,"Content was decent, not too exciting though.",Neutral,Python for Beginners,Dr. V. Rao,2.9,Low,Difficult,High,Expert
+R274,S112,C004,M002,The course lacked structure and was hard to follow.,Negative,Machine Learning Basics,Prof. S. Mehta,2.3,Low,Moderate,Medium,Intermediate
+R275,S101,C003,M005,Loved the examples and the mentor’s expertise really shows.,Positive,Web Development,Dr. V. Rao,4.9,High,Easy,Medium,Expert
+R276,S135,C005,M004,"Some topics were covered in depth, others were rushed.",Neutral,Deep Learning Advanced,Mr. L. Das,3.9,Low,Difficult,Medium,Beginner
+R277,S122,C002,M004,Mentor explained well but the pace was a bit slow.,Neutral,Data Science Fundamentals,Mr. L. Das,3.6,High,Moderate,High,Beginner
+R278,S119,C005,M002,The course content was very informative and the mentor explained clearly.,Positive,Deep Learning Advanced,Prof. S. Mehta,4.7,Low,Difficult,High,Intermediate
+R279,S106,C004,M001,"Some topics were covered in depth, others were rushed.",Neutral,Machine Learning Basics,Dr. A. Kumar,3.2,Low,Easy,Medium,Expert
+R280,S125,C002,M004,Mentor explained well but the pace was a bit slow.,Neutral,Data Science Fundamentals,Mr. L. Das,2.5,Medium,Moderate,Medium,Beginner
+R281,S142,C003,M002,"Too theoretical, needs more practical examples.",Negative,Web Development,Prof. S. Mehta,1,Low,Difficult,Low,Intermediate
+R282,S144,C005,M003,"Content was decent, not too exciting though.",Neutral,Deep Learning Advanced,Ms. R. Sharma,2.7,High,Easy,High,Expert
+R283,S115,C002,M004,"Content was decent, not too exciting though.",Neutral,Data Science Fundamentals,Mr. L. Das,3.4,Low,Moderate,High,Beginner
+R284,S136,C004,M005,I didn’t learn as much as I expected.,Negative,Machine Learning Basics,Dr. V. Rao,1.6,High,Easy,Low,Expert
+R285,S106,C005,M004,"Too theoretical, needs more practical examples.",Negative,Deep Learning Advanced,Mr. L. Das,2.2,High,Difficult,Medium,Beginner
+R286,S136,C005,M002,Mentor was very supportive and responded quickly.,Positive,Deep Learning Advanced,Prof. S. Mehta,4.1,High,Difficult,Low,Intermediate
+R287,S129,C001,M002,Loved the examples and the mentor’s expertise really shows.,Positive,Python for Beginners,Prof. S. Mehta,4.9,High,Difficult,Medium,Intermediate
+R288,S104,C004,M002,Mentor was very supportive and responded quickly.,Positive,Machine Learning Basics,Prof. S. Mehta,4.4,High,Moderate,Medium,Intermediate
+R289,S144,C003,M001,The course lacked structure and was hard to follow.,Negative,Web Development,Dr. A. Kumar,1.8,Medium,Moderate,Low,Expert
+R290,S103,C004,M003,Mentor did not respond to questions effectively.,Negative,Machine Learning Basics,Ms. R. Sharma,1.8,High,Easy,High,Expert
+R291,S131,C001,M003,The course content was very informative and the mentor explained clearly.,Positive,Python for Beginners,Ms. R. Sharma,5,Medium,Easy,Low,Expert
+R292,S125,C004,M004,Very basic and not engaging enough.,Negative,Machine Learning Basics,Mr. L. Das,1.5,Medium,Easy,High,Beginner
+R293,S123,C001,M002,"Too theoretical, needs more practical examples.",Negative,Python for Beginners,Prof. S. Mehta,1.2,High,Moderate,High,Intermediate
+R294,S149,C001,M003,Excellent teaching style and very interactive sessions.,Positive,Python for Beginners,Ms. R. Sharma,4.8,Medium,Difficult,High,Expert
+R295,S115,C002,M004,Very basic and not engaging enough.,Negative,Data Science Fundamentals,Mr. L. Das,1.7,Medium,Easy,Medium,Beginner
+R296,S143,C004,M005,The course content was very informative and the mentor explained clearly.,Positive,Machine Learning Basics,Dr. V. Rao,4,Low,Easy,Low,Expert
+R297,S129,C005,M001,The course content was very informative and the mentor explained clearly.,Positive,Deep Learning Advanced,Dr. A. Kumar,4.6,Low,Difficult,Low,Expert
+R298,S114,C001,M002,"Some topics were covered in depth, others were rushed.",Neutral,Python for Beginners,Prof. S. Mehta,2.8,High,Moderate,Low,Intermediate
+R299,S139,C003,M002,"Too theoretical, needs more practical examples.",Negative,Web Development,Prof. S. Mehta,1.4,Medium,Easy,High,Intermediate
+R300,S118,C001,M005,Mentor did not respond to questions effectively.,Negative,Python for Beginners,Dr. V. Rao,1.6,High,Difficult,Low,Expert
+R301,S104,C003,M004,Very basic and not engaging enough.,Negative,Web Development,Mr. L. Das,1.8,High,Moderate,High,Beginner
+R302,S125,C002,M005,"Some topics were covered in depth, others were rushed.",Neutral,Data Science Fundamentals,Dr. V. Rao,2.7,Medium,Easy,Low,Expert
+R303,S104,C005,M004,Mentor explained well but the pace was a bit slow.,Neutral,Deep Learning Advanced,Mr. L. Das,3.6,Medium,Difficult,High,Beginner
+R304,S114,C003,M001,Highly recommended! The course structure is great.,Positive,Web Development,Dr. A. Kumar,4.2,Medium,Moderate,Low,Expert
+R305,S125,C005,M005,Mentor did not respond to questions effectively.,Negative,Deep Learning Advanced,Dr. V. Rao,1.1,Low,Easy,Low,Expert
+R306,S114,C003,M003,"Too theoretical, needs more practical examples.",Negative,Web Development,Ms. R. Sharma,1.3,Low,Easy,Low,Expert
+R307,S149,C004,M002,The course lacked structure and was hard to follow.,Negative,Machine Learning Basics,Prof. S. Mehta,2,High,Difficult,High,Intermediate
+R308,S136,C003,M003,Highly recommended! The course structure is great.,Positive,Web Development,Ms. R. Sharma,4.9,Medium,Moderate,High,Expert
+R309,S124,C005,M004,I didn’t learn as much as I expected.,Negative,Deep Learning Advanced,Mr. L. Das,1.4,Medium,Easy,High,Beginner
+R310,S124,C003,M004,"Content was decent, not too exciting though.",Neutral,Web Development,Mr. L. Das,3.8,Low,Difficult,Low,Beginner
+R311,S136,C005,M005,Mentor did not respond to questions effectively.,Negative,Deep Learning Advanced,Dr. V. Rao,1,High,Moderate,Medium,Expert
+R312,S125,C005,M002,Excellent teaching style and very interactive sessions.,Positive,Deep Learning Advanced,Prof. S. Mehta,4.3,Medium,Difficult,High,Intermediate
+R313,S132,C004,M004,I didn’t learn as much as I expected.,Negative,Machine Learning Basics,Mr. L. Das,1.4,Low,Difficult,Medium,Beginner
+R314,S132,C002,M005,Excellent teaching style and very interactive sessions.,Positive,Data Science Fundamentals,Dr. V. Rao,4.7,High,Easy,High,Expert
+R315,S143,C001,M001,The course content was very informative and the mentor explained clearly.,Positive,Python for Beginners,Dr. A. Kumar,4.9,Medium,Easy,High,Expert
+R316,S101,C002,M005,The course content was very informative and the mentor explained clearly.,Positive,Data Science Fundamentals,Dr. V. Rao,4.7,Medium,Moderate,Low,Expert
+R317,S143,C004,M001,"Too theoretical, needs more practical examples.",Negative,Machine Learning Basics,Dr. A. Kumar,2.3,Low,Difficult,High,Expert
+R318,S147,C003,M005,"The course was okay, but could use more real-world examples.",Neutral,Web Development,Dr. V. Rao,2.5,Medium,Easy,High,Expert
+R319,S112,C001,M001,Very basic and not engaging enough.,Negative,Python for Beginners,Dr. A. Kumar,2.1,High,Easy,Low,Expert
+R320,S123,C003,M004,Mentor was very supportive and responded quickly.,Positive,Web Development,Mr. L. Das,4.5,Low,Moderate,Medium,Beginner
+R321,S145,C002,M003,"Good, but not much interaction from the mentor.",Neutral,Data Science Fundamentals,Ms. R. Sharma,2.8,High,Easy,High,Expert
+R322,S125,C004,M005,The course lacked structure and was hard to follow.,Negative,Machine Learning Basics,Dr. V. Rao,1.1,Medium,Easy,High,Expert
+R323,S128,C003,M005,Excellent teaching style and very interactive sessions.,Positive,Web Development,Dr. V. Rao,4.1,Low,Difficult,Low,Expert
+R324,S145,C005,M004,Excellent teaching style and very interactive sessions.,Positive,Deep Learning Advanced,Mr. L. Das,4.9,Medium,Easy,Low,Beginner
+R325,S137,C001,M002,I didn’t learn as much as I expected.,Negative,Python for Beginners,Prof. S. Mehta,2.3,Medium,Easy,Low,Intermediate
+R326,S146,C004,M001,Mentor did not respond to questions effectively.,Negative,Machine Learning Basics,Dr. A. Kumar,2.1,Medium,Easy,High,Expert
+R327,S125,C005,M003,Mentor was very supportive and responded quickly.,Positive,Deep Learning Advanced,Ms. R. Sharma,4.8,Medium,Difficult,Low,Expert
+R328,S123,C001,M001,The course lacked structure and was hard to follow.,Negative,Python for Beginners,Dr. A. Kumar,1.7,Medium,Easy,Low,Expert
+R329,S139,C004,M003,"Good, but not much interaction from the mentor.",Neutral,Machine Learning Basics,Ms. R. Sharma,3.6,Low,Difficult,Medium,Expert
+R330,S136,C004,M004,"Some topics were covered in depth, others were rushed.",Neutral,Machine Learning Basics,Mr. L. Das,2.8,Low,Difficult,High,Beginner
+R331,S140,C003,M002,Very basic and not engaging enough.,Negative,Web Development,Prof. S. Mehta,1.1,High,Easy,Low,Intermediate
+R332,S141,C002,M004,Mentor explained well but the pace was a bit slow.,Neutral,Data Science Fundamentals,Mr. L. Das,3,Medium,Moderate,Low,Beginner
+R333,S129,C003,M003,The course content was very informative and the mentor explained clearly.,Positive,Web Development,Ms. R. Sharma,4.9,Low,Easy,Low,Expert
+R334,S136,C005,M004,Highly recommended! The course structure is great.,Positive,Deep Learning Advanced,Mr. L. Das,4.4,Low,Easy,Low,Beginner
+R335,S139,C003,M004,"Good, but not much interaction from the mentor.",Neutral,Web Development,Mr. L. Das,2.6,Low,Moderate,Medium,Beginner
+R336,S136,C002,M005,"The course was okay, but could use more real-world examples.",Neutral,Data Science Fundamentals,Dr. V. Rao,3.5,High,Easy,High,Expert
+R337,S120,C003,M004,Mentor explained well but the pace was a bit slow.,Neutral,Web Development,Mr. L. Das,2.7,Low,Easy,Low,Beginner
+R338,S131,C001,M003,"Content was decent, not too exciting though.",Neutral,Python for Beginners,Ms. R. Sharma,3.1,Medium,Easy,High,Expert
+R339,S113,C004,M001,Very basic and not engaging enough.,Negative,Machine Learning Basics,Dr. A. Kumar,1.8,Low,Moderate,Low,Expert
+R340,S125,C003,M004,"Content was decent, not too exciting though.",Neutral,Web Development,Mr. L. Das,3.7,Medium,Moderate,High,Beginner
+R341,S139,C002,M004,Mentor did not respond to questions effectively.,Negative,Data Science Fundamentals,Mr. L. Das,1.4,Medium,Easy,Medium,Beginner
+R342,S141,C004,M005,"Content was decent, not too exciting though.",Neutral,Machine Learning Basics,Dr. V. Rao,3.5,Low,Moderate,Medium,Expert
+R343,S137,C002,M005,"Some topics were covered in depth, others were rushed.",Neutral,Data Science Fundamentals,Dr. V. Rao,3,High,Easy,High,Expert
+R344,S130,C002,M004,The course lacked structure and was hard to follow.,Negative,Data Science Fundamentals,Mr. L. Das,2.3,Medium,Difficult,Low,Beginner
+R345,S120,C002,M003,"Some topics were covered in depth, others were rushed.",Neutral,Data Science Fundamentals,Ms. R. Sharma,2.7,High,Easy,High,Expert
+R346,S139,C004,M005,"Some topics were covered in depth, others were rushed.",Neutral,Machine Learning Basics,Dr. V. Rao,2.6,Medium,Difficult,High,Expert
+R347,S124,C005,M005,Very basic and not engaging enough.,Negative,Deep Learning Advanced,Dr. V. Rao,1.8,High,Easy,Low,Expert
+R348,S140,C001,M005,Loved the examples and the mentor’s expertise really shows.,Positive,Python for Beginners,Dr. V. Rao,4.2,High,Difficult,High,Expert
+R349,S128,C001,M001,"Content was decent, not too exciting though.",Neutral,Python for Beginners,Dr. A. Kumar,3.9,Low,Moderate,Low,Expert
+R350,S145,C005,M002,"Too theoretical, needs more practical examples.",Negative,Deep Learning Advanced,Prof. S. Mehta,1.8,Medium,Moderate,Medium,Intermediate
+R351,S110,C003,M001,"Good, but not much interaction from the mentor.",Neutral,Web Development,Dr. A. Kumar,3.5,Medium,Easy,Medium,Expert
+R352,S147,C002,M003,"The course was okay, but could use more real-world examples.",Neutral,Data Science Fundamentals,Ms. R. Sharma,2.7,Medium,Moderate,Medium,Expert
+R353,S131,C001,M004,Mentor was very supportive and responded quickly.,Positive,Python for Beginners,Mr. L. Das,4.5,High,Difficult,Medium,Beginner
+R354,S146,C001,M001,"The course was okay, but could use more real-world examples.",Neutral,Python for Beginners,Dr. A. Kumar,2.9,Medium,Difficult,Low,Expert
+R355,S148,C002,M005,Mentor did not respond to questions effectively.,Negative,Data Science Fundamentals,Dr. V. Rao,2.3,Low,Difficult,Low,Expert
+R356,S130,C002,M004,"Good, but not much interaction from the mentor.",Neutral,Data Science Fundamentals,Mr. L. Das,3.1,High,Easy,Low,Beginner
+R357,S148,C005,M002,Very basic and not engaging enough.,Negative,Deep Learning Advanced,Prof. S. Mehta,1.6,Medium,Difficult,Medium,Intermediate
+R358,S114,C003,M001,"The course was okay, but could use more real-world examples.",Neutral,Web Development,Dr. A. Kumar,3.5,High,Easy,High,Expert
+R359,S130,C001,M003,Loved the examples and the mentor’s expertise really shows.,Positive,Python for Beginners,Ms. R. Sharma,4.3,High,Moderate,High,Expert
+R360,S140,C004,M005,I didn’t learn as much as I expected.,Negative,Machine Learning Basics,Dr. V. Rao,1.8,Low,Moderate,Medium,Expert
+R361,S144,C003,M005,"Good, but not much interaction from the mentor.",Neutral,Web Development,Dr. V. Rao,2.7,High,Easy,High,Expert
+R362,S120,C001,M002,Loved the examples and the mentor’s expertise really shows.,Positive,Python for Beginners,Prof. S. Mehta,4.1,Medium,Difficult,Low,Intermediate
+R363,S109,C005,M004,Very basic and not engaging enough.,Negative,Deep Learning Advanced,Mr. L. Das,1.6,Medium,Easy,Medium,Beginner
+R364,S142,C002,M005,"Too theoretical, needs more practical examples.",Negative,Data Science Fundamentals,Dr. V. Rao,2,Low,Moderate,Medium,Expert
+R365,S129,C005,M001,Excellent teaching style and very interactive sessions.,Positive,Deep Learning Advanced,Dr. A. Kumar,4.3,Medium,Easy,Medium,Expert
+R366,S136,C005,M004,Excellent teaching style and very interactive sessions.,Positive,Deep Learning Advanced,Mr. L. Das,4.8,Medium,Difficult,Medium,Beginner
+R367,S106,C005,M001,"Some topics were covered in depth, others were rushed.",Neutral,Deep Learning Advanced,Dr. A. Kumar,3.2,Low,Moderate,Low,Expert
+R368,S111,C004,M005,Mentor explained well but the pace was a bit slow.,Neutral,Machine Learning Basics,Dr. V. Rao,3.3,High,Moderate,High,Expert
+R369,S118,C005,M003,The course lacked structure and was hard to follow.,Negative,Deep Learning Advanced,Ms. R. Sharma,1.8,High,Easy,High,Expert
+R370,S128,C001,M002,"Good, but not much interaction from the mentor.",Neutral,Python for Beginners,Prof. S. Mehta,2.8,Medium,Easy,Medium,Intermediate
+R371,S106,C004,M001,"Content was decent, not too exciting though.",Neutral,Machine Learning Basics,Dr. A. Kumar,3.7,Low,Easy,High,Expert
+R372,S140,C004,M002,I didn’t learn as much as I expected.,Negative,Machine Learning Basics,Prof. S. Mehta,2.2,High,Easy,Low,Intermediate
+R373,S135,C003,M005,The course content was very informative and the mentor explained clearly.,Positive,Web Development,Dr. V. Rao,4.6,High,Easy,Medium,Expert
+R374,S118,C005,M001,I didn’t learn as much as I expected.,Negative,Deep Learning Advanced,Dr. A. Kumar,1.4,Low,Moderate,Low,Expert
+R375,S109,C002,M002,Mentor explained well but the pace was a bit slow.,Neutral,Data Science Fundamentals,Prof. S. Mehta,3.5,High,Moderate,Low,Intermediate
+R376,S137,C003,M004,Very basic and not engaging enough.,Negative,Web Development,Mr. L. Das,1.7,Medium,Moderate,Low,Beginner
+R377,S148,C003,M003,The course lacked structure and was hard to follow.,Negative,Web Development,Ms. R. Sharma,1.6,Medium,Moderate,Medium,Expert
+R378,S147,C001,M004,The course lacked structure and was hard to follow.,Negative,Python for Beginners,Mr. L. Das,2.2,High,Difficult,High,Beginner
+R379,S126,C002,M004,"The course was okay, but could use more real-world examples.",Neutral,Data Science Fundamentals,Mr. L. Das,3.6,Low,Moderate,Medium,Beginner
+R380,S137,C002,M005,"Content was decent, not too exciting though.",Neutral,Data Science Fundamentals,Dr. V. Rao,3,Medium,Moderate,High,Expert
+R381,S130,C001,M001,The course content was very informative and the mentor explained clearly.,Positive,Python for Beginners,Dr. A. Kumar,4.1,Low,Moderate,Medium,Expert
+R382,S145,C002,M003,Highly recommended! The course structure is great.,Positive,Data Science Fundamentals,Ms. R. Sharma,4.2,Low,Moderate,Low,Expert
+R383,S124,C002,M001,I didn’t learn as much as I expected.,Negative,Data Science Fundamentals,Dr. A. Kumar,1.4,Medium,Difficult,Medium,Expert
+R384,S106,C001,M001,Mentor did not respond to questions effectively.,Negative,Python for Beginners,Dr. A. Kumar,1.6,Low,Moderate,Low,Expert
+R385,S144,C004,M001,Mentor was very supportive and responded quickly.,Positive,Machine Learning Basics,Dr. A. Kumar,4.2,Low,Difficult,Medium,Expert
+R386,S131,C001,M002,Highly recommended! The course structure is great.,Positive,Python for Beginners,Prof. S. Mehta,4.7,Medium,Easy,High,Intermediate
+R387,S120,C002,M004,The course content was very informative and the mentor explained clearly.,Positive,Data Science Fundamentals,Mr. L. Das,4.3,Low,Difficult,High,Beginner
+R388,S101,C005,M002,The course content was very informative and the mentor explained clearly.,Positive,Deep Learning Advanced,Prof. S. Mehta,4.5,Medium,Moderate,High,Intermediate
+R389,S140,C004,M002,Excellent teaching style and very interactive sessions.,Positive,Machine Learning Basics,Prof. S. Mehta,4.9,Low,Easy,Low,Intermediate
+R390,S123,C004,M003,Mentor was very supportive and responded quickly.,Positive,Machine Learning Basics,Ms. R. Sharma,4.7,Low,Easy,Medium,Expert
+R391,S139,C005,M005,The course lacked structure and was hard to follow.,Negative,Deep Learning Advanced,Dr. V. Rao,1.3,Medium,Difficult,Low,Expert
+R392,S139,C005,M002,I didn’t learn as much as I expected.,Negative,Deep Learning Advanced,Prof. S. Mehta,1.3,High,Moderate,Medium,Intermediate
+R393,S116,C004,M004,The course lacked structure and was hard to follow.,Negative,Machine Learning Basics,Mr. L. Das,2.1,Low,Easy,Medium,Beginner
+R394,S101,C003,M003,"Too theoretical, needs more practical examples.",Negative,Web Development,Ms. R. Sharma,1.1,Low,Moderate,High,Expert
+R395,S112,C004,M001,"Content was decent, not too exciting though.",Neutral,Machine Learning Basics,Dr. A. Kumar,3.3,Low,Difficult,Low,Expert
+R396,S104,C004,M005,Loved the examples and the mentor’s expertise really shows.,Positive,Machine Learning Basics,Dr. V. Rao,4.2,Medium,Difficult,High,Expert
+R397,S126,C001,M005,Very basic and not engaging enough.,Negative,Python for Beginners,Dr. V. Rao,1.6,High,Difficult,Low,Expert
+R398,S133,C002,M002,"The course was okay, but could use more real-world examples.",Neutral,Data Science Fundamentals,Prof. S. Mehta,2.9,High,Moderate,Medium,Intermediate
+R399,S128,C002,M001,The course lacked structure and was hard to follow.,Negative,Data Science Fundamentals,Dr. A. Kumar,1.4,Low,Easy,Medium,Expert
+R400,S104,C003,M002,Highly recommended! The course structure is great.,Positive,Web Development,Prof. S. Mehta,4.6,Low,Easy,High,Intermediate
+R401,S123,C005,M005,The course content was very informative and the mentor explained clearly.,Positive,Deep Learning Advanced,Dr. V. Rao,4.2,High,Moderate,Low,Expert
+R402,S118,C001,M001,Mentor explained well but the pace was a bit slow.,Neutral,Python for Beginners,Dr. A. Kumar,3.5,Medium,Moderate,Medium,Expert
+R403,S137,C001,M004,The course lacked structure and was hard to follow.,Negative,Python for Beginners,Mr. L. Das,1.4,Medium,Difficult,Medium,Beginner
+R404,S111,C003,M002,Highly recommended! The course structure is great.,Positive,Web Development,Prof. S. Mehta,4.9,Medium,Easy,High,Intermediate
+R405,S133,C001,M001,The course lacked structure and was hard to follow.,Negative,Python for Beginners,Dr. A. Kumar,1.3,Low,Easy,Low,Expert
+R406,S110,C002,M001,"Content was decent, not too exciting though.",Neutral,Data Science Fundamentals,Dr. A. Kumar,3,High,Difficult,High,Expert
+R407,S116,C004,M003,Very basic and not engaging enough.,Negative,Machine Learning Basics,Ms. R. Sharma,1.3,Medium,Easy,High,Expert
+R408,S104,C002,M002,"The course was okay, but could use more real-world examples.",Neutral,Data Science Fundamentals,Prof. S. Mehta,3.2,High,Easy,Medium,Intermediate
+R409,S150,C003,M003,Highly recommended! The course structure is great.,Positive,Web Development,Ms. R. Sharma,4.9,Low,Difficult,Medium,Expert
+R410,S137,C003,M005,Loved the examples and the mentor’s expertise really shows.,Positive,Web Development,Dr. V. Rao,4.2,Low,Moderate,Medium,Expert
+R411,S150,C002,M005,Very basic and not engaging enough.,Negative,Data Science Fundamentals,Dr. V. Rao,2.4,Low,Easy,Low,Expert
+R412,S123,C001,M003,"The course was okay, but could use more real-world examples.",Neutral,Python for Beginners,Ms. R. Sharma,2.8,Low,Difficult,Medium,Expert
+R413,S134,C002,M004,I didn’t learn as much as I expected.,Negative,Data Science Fundamentals,Mr. L. Das,1.1,Medium,Easy,Low,Beginner
+R414,S115,C005,M004,I didn’t learn as much as I expected.,Negative,Deep Learning Advanced,Mr. L. Das,1.1,High,Moderate,Medium,Beginner
+R415,S133,C002,M004,The course lacked structure and was hard to follow.,Negative,Data Science Fundamentals,Mr. L. Das,1.8,Low,Difficult,High,Beginner
+R416,S109,C002,M003,Highly recommended! The course structure is great.,Positive,Data Science Fundamentals,Ms. R. Sharma,4.7,Medium,Moderate,Medium,Expert
+R417,S118,C002,M001,I didn’t learn as much as I expected.,Negative,Data Science Fundamentals,Dr. A. Kumar,1.4,Low,Easy,High,Expert
+R418,S129,C004,M003,Excellent teaching style and very interactive sessions.,Positive,Machine Learning Basics,Ms. R. Sharma,4.1,Medium,Easy,High,Expert
+R419,S130,C003,M001,Mentor explained well but the pace was a bit slow.,Neutral,Web Development,Dr. A. Kumar,3.1,Low,Easy,High,Expert
+R420,S121,C002,M001,"Good, but not much interaction from the mentor.",Neutral,Data Science Fundamentals,Dr. A. Kumar,2.6,High,Easy,Medium,Expert
+R421,S120,C003,M002,"Good, but not much interaction from the mentor.",Neutral,Web Development,Prof. S. Mehta,2.6,Low,Moderate,Medium,Intermediate
+R422,S130,C001,M002,"Too theoretical, needs more practical examples.",Negative,Python for Beginners,Prof. S. Mehta,1.3,Low,Easy,Low,Intermediate
+R423,S126,C003,M001,Excellent teaching style and very interactive sessions.,Positive,Web Development,Dr. A. Kumar,4.2,High,Difficult,Medium,Expert
+R424,S113,C004,M002,The course content was very informative and the mentor explained clearly.,Positive,Machine Learning Basics,Prof. S. Mehta,5,Low,Moderate,Low,Intermediate
+R425,S137,C004,M004,Highly recommended! The course structure is great.,Positive,Machine Learning Basics,Mr. L. Das,4.1,Medium,Easy,Medium,Beginner
+R426,S114,C002,M003,Very basic and not engaging enough.,Negative,Data Science Fundamentals,Ms. R. Sharma,1.2,Medium,Moderate,Low,Expert
+R427,S116,C003,M004,Mentor was very supportive and responded quickly.,Positive,Web Development,Mr. L. Das,4.6,Medium,Difficult,Medium,Beginner
+R428,S109,C004,M002,The course content was very informative and the mentor explained clearly.,Positive,Machine Learning Basics,Prof. S. Mehta,4.3,High,Difficult,Low,Intermediate
+R429,S125,C003,M004,"Too theoretical, needs more practical examples.",Negative,Web Development,Mr. L. Das,2.1,High,Moderate,Medium,Beginner
+R430,S118,C002,M001,"Too theoretical, needs more practical examples.",Negative,Data Science Fundamentals,Dr. A. Kumar,1.5,Medium,Difficult,Low,Expert
+R431,S131,C005,M003,Loved the examples and the mentor’s expertise really shows.,Positive,Deep Learning Advanced,Ms. R. Sharma,4.1,High,Easy,Low,Expert
+R432,S118,C005,M001,Excellent teaching style and very interactive sessions.,Positive,Deep Learning Advanced,Dr. A. Kumar,4.7,Low,Difficult,Medium,Expert
+R433,S138,C003,M003,Mentor explained well but the pace was a bit slow.,Neutral,Web Development,Ms. R. Sharma,2.7,High,Easy,High,Expert
+R434,S137,C002,M005,I didn’t learn as much as I expected.,Negative,Data Science Fundamentals,Dr. V. Rao,2.3,Low,Moderate,High,Expert
+R435,S106,C001,M002,Mentor explained well but the pace was a bit slow.,Neutral,Python for Beginners,Prof. S. Mehta,3.2,High,Easy,Low,Intermediate
+R436,S140,C002,M002,Very basic and not engaging enough.,Negative,Data Science Fundamentals,Prof. S. Mehta,1,Medium,Difficult,Low,Intermediate
+R437,S138,C002,M001,"The course was okay, but could use more real-world examples.",Neutral,Data Science Fundamentals,Dr. A. Kumar,2.5,High,Moderate,Low,Expert
+R438,S122,C003,M003,"Some topics were covered in depth, others were rushed.",Neutral,Web Development,Ms. R. Sharma,3.3,Low,Easy,High,Expert
+R439,S112,C005,M005,"Some topics were covered in depth, others were rushed.",Neutral,Deep Learning Advanced,Dr. V. Rao,3.4,Medium,Easy,High,Expert
+R440,S147,C003,M002,Mentor did not respond to questions effectively.,Negative,Web Development,Prof. S. Mehta,1.5,Low,Difficult,Low,Intermediate
+R441,S150,C005,M001,"Too theoretical, needs more practical examples.",Negative,Deep Learning Advanced,Dr. A. Kumar,1.5,Low,Difficult,Medium,Expert
+R442,S107,C004,M002,Mentor did not respond to questions effectively.,Negative,Machine Learning Basics,Prof. S. Mehta,1.9,Medium,Difficult,Low,Intermediate
+R443,S111,C001,M003,Loved the examples and the mentor’s expertise really shows.,Positive,Python for Beginners,Ms. R. Sharma,5,Medium,Easy,Medium,Expert
+R444,S123,C003,M001,Excellent teaching style and very interactive sessions.,Positive,Web Development,Dr. A. Kumar,4.7,High,Easy,Low,Expert
+R445,S111,C004,M004,"Some topics were covered in depth, others were rushed.",Neutral,Machine Learning Basics,Mr. L. Das,3.5,Medium,Moderate,High,Beginner
+R446,S137,C002,M002,"The course was okay, but could use more real-world examples.",Neutral,Data Science Fundamentals,Prof. S. Mehta,3.7,Medium,Easy,Low,Intermediate
+R447,S107,C001,M003,"The course was okay, but could use more real-world examples.",Neutral,Python for Beginners,Ms. R. Sharma,2.9,Low,Moderate,Low,Expert
+R448,S106,C003,M005,The course lacked structure and was hard to follow.,Negative,Web Development,Dr. V. Rao,1.8,High,Moderate,High,Expert
+R449,S111,C005,M004,Highly recommended! The course structure is great.,Positive,Deep Learning Advanced,Mr. L. Das,4.9,Low,Easy,Low,Beginner
+R450,S127,C005,M005,Mentor explained well but the pace was a bit slow.,Neutral,Deep Learning Advanced,Dr. V. Rao,3.9,Medium,Difficult,Medium,Expert
+R451,S126,C005,M005,Mentor explained well but the pace was a bit slow.,Neutral,Deep Learning Advanced,Dr. V. Rao,2.6,Medium,Easy,Low,Expert
+R452,S119,C005,M004,"The course was okay, but could use more real-world examples.",Neutral,Deep Learning Advanced,Mr. L. Das,3.1,Low,Easy,Low,Beginner
+R453,S106,C004,M001,Excellent teaching style and very interactive sessions.,Positive,Machine Learning Basics,Dr. A. Kumar,4.6,Medium,Moderate,Medium,Expert
+R454,S135,C004,M002,"Content was decent, not too exciting though.",Neutral,Machine Learning Basics,Prof. S. Mehta,2.6,Medium,Moderate,Medium,Intermediate
+R455,S129,C004,M003,Highly recommended! The course structure is great.,Positive,Machine Learning Basics,Ms. R. Sharma,4,Low,Moderate,High,Expert
+R456,S143,C001,M001,Excellent teaching style and very interactive sessions.,Positive,Python for Beginners,Dr. A. Kumar,4.8,High,Moderate,High,Expert
+R457,S104,C004,M005,"Good, but not much interaction from the mentor.",Neutral,Machine Learning Basics,Dr. V. Rao,2.8,Medium,Difficult,High,Expert
+R458,S131,C003,M001,"Good, but not much interaction from the mentor.",Neutral,Web Development,Dr. A. Kumar,3.7,Medium,Difficult,Low,Expert
+R459,S137,C005,M002,"Too theoretical, needs more practical examples.",Negative,Deep Learning Advanced,Prof. S. Mehta,2.3,Low,Moderate,Low,Intermediate
+R460,S109,C001,M004,Excellent teaching style and very interactive sessions.,Positive,Python for Beginners,Mr. L. Das,4.8,Low,Difficult,Medium,Beginner
+R461,S117,C003,M001,Excellent teaching style and very interactive sessions.,Positive,Web Development,Dr. A. Kumar,4.8,Low,Moderate,High,Expert
+R462,S118,C005,M004,"Good, but not much interaction from the mentor.",Neutral,Deep Learning Advanced,Mr. L. Das,3,Low,Difficult,High,Beginner
+R463,S108,C004,M002,"Too theoretical, needs more practical examples.",Negative,Machine Learning Basics,Prof. S. Mehta,2.1,Low,Difficult,High,Intermediate
+R464,S137,C001,M003,The course lacked structure and was hard to follow.,Negative,Python for Beginners,Ms. R. Sharma,2.3,High,Moderate,Medium,Expert
+R465,S137,C005,M004,"Some topics were covered in depth, others were rushed.",Neutral,Deep Learning Advanced,Mr. L. Das,3.4,Low,Easy,Medium,Beginner
+R466,S144,C004,M001,Mentor explained well but the pace was a bit slow.,Neutral,Machine Learning Basics,Dr. A. Kumar,3.4,Medium,Moderate,High,Expert
+R467,S118,C003,M001,The course content was very informative and the mentor explained clearly.,Positive,Web Development,Dr. A. Kumar,4.7,Medium,Moderate,Medium,Expert
+R468,S144,C001,M002,"Some topics were covered in depth, others were rushed.",Neutral,Python for Beginners,Prof. S. Mehta,3.7,Low,Moderate,High,Intermediate
+R469,S127,C005,M001,"Content was decent, not too exciting though.",Neutral,Deep Learning Advanced,Dr. A. Kumar,2.9,Low,Moderate,Low,Expert
+R470,S124,C001,M005,"Some topics were covered in depth, others were rushed.",Neutral,Python for Beginners,Dr. V. Rao,3.6,Low,Easy,Medium,Expert
+R471,S150,C005,M005,"Too theoretical, needs more practical examples.",Negative,Deep Learning Advanced,Dr. V. Rao,1.6,Low,Easy,Low,Expert
+R472,S130,C001,M003,The course content was very informative and the mentor explained clearly.,Positive,Python for Beginners,Ms. R. Sharma,4.2,High,Easy,Medium,Expert
+R473,S141,C001,M001,"Some topics were covered in depth, others were rushed.",Neutral,Python for Beginners,Dr. A. Kumar,3.2,Low,Moderate,Medium,Expert
+R474,S131,C005,M005,Very basic and not engaging enough.,Negative,Deep Learning Advanced,Dr. V. Rao,1.2,Medium,Moderate,Low,Expert
+R475,S125,C001,M002,"The course was okay, but could use more real-world examples.",Neutral,Python for Beginners,Prof. S. Mehta,2.9,High,Easy,Low,Intermediate
+R476,S118,C004,M005,Mentor did not respond to questions effectively.,Negative,Machine Learning Basics,Dr. V. Rao,1.9,Low,Difficult,Low,Expert
+R477,S139,C001,M002,Mentor explained well but the pace was a bit slow.,Neutral,Python for Beginners,Prof. S. Mehta,3.4,Medium,Difficult,Medium,Intermediate
+R478,S125,C003,M004,I didn’t learn as much as I expected.,Negative,Web Development,Mr. L. Das,1.6,Medium,Easy,Medium,Beginner
+R479,S126,C005,M001,"Good, but not much interaction from the mentor.",Neutral,Deep Learning Advanced,Dr. A. Kumar,3.7,Low,Difficult,High,Expert
+R480,S139,C003,M003,"Good, but not much interaction from the mentor.",Neutral,Web Development,Ms. R. Sharma,3.4,High,Easy,Medium,Expert
+R481,S141,C003,M003,Loved the examples and the mentor’s expertise really shows.,Positive,Web Development,Ms. R. Sharma,5,Medium,Difficult,High,Expert
+R482,S134,C002,M001,I didn’t learn as much as I expected.,Negative,Data Science Fundamentals,Dr. A. Kumar,1.3,High,Moderate,High,Expert
+R483,S142,C004,M003,Mentor explained well but the pace was a bit slow.,Neutral,Machine Learning Basics,Ms. R. Sharma,3.5,Medium,Moderate,Medium,Expert
+R484,S137,C002,M003,"The course was okay, but could use more real-world examples.",Neutral,Data Science Fundamentals,Ms. R. Sharma,3.3,High,Difficult,Low,Expert
+R485,S131,C003,M005,"Too theoretical, needs more practical examples.",Negative,Web Development,Dr. V. Rao,1.9,Medium,Easy,High,Expert
+R486,S131,C002,M003,Mentor did not respond to questions effectively.,Negative,Data Science Fundamentals,Ms. R. Sharma,1.4,High,Difficult,Low,Expert
+R487,S115,C003,M002,I didn’t learn as much as I expected.,Negative,Web Development,Prof. S. Mehta,1.9,High,Moderate,Medium,Intermediate
+R488,S119,C004,M001,"Content was decent, not too exciting though.",Neutral,Machine Learning Basics,Dr. A. Kumar,2.9,Medium,Easy,High,Expert
+R489,S105,C004,M002,"Too theoretical, needs more practical examples.",Negative,Machine Learning Basics,Prof. S. Mehta,2.3,High,Easy,High,Intermediate
+R490,S104,C002,M002,"Good, but not much interaction from the mentor.",Neutral,Data Science Fundamentals,Prof. S. Mehta,2.9,Low,Moderate,Medium,Intermediate
+R491,S146,C002,M001,Very basic and not engaging enough.,Negative,Data Science Fundamentals,Dr. A. Kumar,1.2,Medium,Moderate,High,Expert
+R492,S101,C004,M003,Loved the examples and the mentor’s expertise really shows.,Positive,Machine Learning Basics,Ms. R. Sharma,4.6,Low,Easy,High,Expert
+R493,S150,C001,M002,Highly recommended! The course structure is great.,Positive,Python for Beginners,Prof. S. Mehta,4.8,High,Moderate,High,Intermediate
+R494,S131,C004,M001,"Some topics were covered in depth, others were rushed.",Neutral,Machine Learning Basics,Dr. A. Kumar,3.1,Low,Difficult,Low,Expert
+R495,S121,C005,M002,I didn’t learn as much as I expected.,Negative,Deep Learning Advanced,Prof. S. Mehta,2.3,Low,Difficult,Low,Intermediate
+R496,S123,C003,M002,Mentor did not respond to questions effectively.,Negative,Web Development,Prof. S. Mehta,1.3,Low,Moderate,High,Intermediate
+R497,S103,C003,M003,I didn’t learn as much as I expected.,Negative,Web Development,Ms. R. Sharma,1.2,Medium,Difficult,High,Expert
+R498,S144,C002,M003,"Too theoretical, needs more practical examples.",Negative,Data Science Fundamentals,Ms. R. Sharma,1.5,Medium,Moderate,Low,Expert
+R499,S115,C002,M002,Highly recommended! The course structure is great.,Positive,Data Science Fundamentals,Prof. S. Mehta,4,High,Easy,High,Intermediate
+R500,S146,C001,M004,Mentor did not respond to questions effectively.,Negative,Python for Beginners,Mr. L. Das,1.2,High,Moderate,High,Beginner
